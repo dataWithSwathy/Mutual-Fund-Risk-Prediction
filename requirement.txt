@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+umap-learn
+xgboost  # Optional, only if you want to use XGBoost classifier
